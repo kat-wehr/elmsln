@@ -1,0 +1,31 @@
+###Adding Interactive Media to a Course Page
+
+ELMSLN works with H5P content. H5P is a community-driven interactive content builder that allows instructors and designers to include interactive elements in courses. 
+
+##Interactive Media
+Interactive media is one type of H5P tool. This tool allows users to add questions and notes for students to answer as they watch video content. 
+
+(example) 
+
+Students will see the question when it is scheduled to appear and will have the ability to click an answer in order to move forward or be sent backward in the video (depending on how the question is set up). There are many different options available as far as question types and feedback for choices.
+
+##How To Add Interactive Media to Your Course in ELMSLN
+1. Log in to ELMSLN. 
+2. Click on "Network" in the upper left corner of the screen. 
+3. From the Network Panel choose "Media Assets." (IMAGE)
+4. This will open a list of media assets that currently exist in your network. To add a new one, click Add and then select "Interactive Content" from the drop down list. Interactive Content refers to all the possible H5P tools that are available to be added to ELMSLN. (IMAGE)
+5. Enter the approriate information for title. Select "Create" and then choose "Interactive Video."
+From here, follow the instructions for adding questions and setting options for feedback fromo H5P's Interactive Video tutorial: https://h5p.org/tutorial-interactive-video
+Be sure to save your video after you've finished adding questions. 
+
+##Adding the Video to Your Content Page
+Once you have the video questions set up as desired, the next step is adding the video to a course content page. 
+1. Navigate back to the Media Assets page if you are not there already. 
+2. Look for the video you want to add in the list. 
+3. Click on the name of the video to see a preview of the video. Below this preview you will see the Embed Code. Copy this code. 
+4. Navigate to the course and content page where you'd like to add the interactive video. 
+5. Edit the page. 
+6. Add the embed code where you'd like the video to appear in the content. You can preview the changes to see if you like the positioning. Once you are satisfied, click "Save." 
+
+##Editing a Previously Saved Interactive Video
+Once the Embed Code has been added to a content page, making changes is easy. Just navigate back to the Media Assets page, look for the title of the video you want to edit, and click the edit link next to the video title. Any changes you make will be saved and automatically reflected on any page where the video was originally embedded.
